@@ -1,4 +1,4 @@
 - 👑  Hi, I’m Mayank
-- 🖥️  I’m interested in Coding
-- 🎓  I’m currently learning App,Web,Game Development
-- 🔔  Follow me now to get more updates
+- 🖥️  I’m interested in Coding    
+- 🎓  I’m currently learning Web Development
+- 🔔  Follow me to get more updates 
