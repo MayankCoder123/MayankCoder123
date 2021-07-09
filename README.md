@@ -1,4 +1,5 @@
-- 👑  Hi, I’m Mayank
-- 🖥️  I’m interested in Coding    
-- 🎓  I’m currently learning Web Development
-- 🔔  Follow me to get more updates 
+- 👑 Hi, I’m Mayank
+- 🖥️ I’m interested in Coding    
+- 🎓 I’m currently learning Web Development
+- 🔔 I’m starting project streak, In which I will add new html,css,js project or website themes per week and free to use with source code
+- 🔔 Follow me to get more updates 
