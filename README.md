@@ -7,6 +7,6 @@
   
 📫 How to reach me : **mayanknavare@gmail.com**
 
- 📫 [Follow My Github Creative Team](https://github.com/orgs/MGithubOrg/teams/mgithubcommunity)
+📫 Email me to join my gitHub creative group
 
 <img src="https://github-readme-stats.vercel.app/api?username=mayankcoder123&show_icons=true&locale=en" alt="mayankcoder123" />
