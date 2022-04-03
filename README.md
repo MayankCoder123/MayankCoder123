@@ -3,10 +3,8 @@
 
 <h3 align="left">About me:</h3>
 
-🔭 I’m currently working on **A Big Website Project**
+📑 I am currently started to learn ***Android Development***
   
 📫 How to reach me : **mayanknavare@gmail.com**
 
-📫 Email me to join my **GitHub Creative Group**
-
-<img src="https://github-readme-stats.vercel.app/api?username=mayankcoder123&show_icons=true&locale=en" alt="mayankcoder123" />
+<img src="https://github-readme-stats.vercel.app/api?username=mayankcoder123&show_icons=true&theme=tokyonight" alt="mayankcoder123" />
