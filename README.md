@@ -10,7 +10,7 @@
 
 📑 I recently started learning ***Android Development***
 
-💙 ***Support my work*** by following me github : ***MayankCoder123***
+💙 ***Support my work*** by following me on github : ***MayankCoder123***
   
 🏁 My focus is now to ***learn new things*** in web develolment and ***improve my github***
 
